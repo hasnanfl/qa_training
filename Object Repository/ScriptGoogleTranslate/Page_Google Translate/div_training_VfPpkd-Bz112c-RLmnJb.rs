@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_training_VfPpkd-Bz112c-RLmnJb</name>
+   <tag></tag>
+   <elementGuidId>378bb568-6e20-42e4-8646-f173c4c9b838</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.VfPpkd-Bz112c-LgbsSe.VfPpkd-Bz112c-LgbsSe-OWXEXe-e5LLRc-SxQuSe.yHy1rc.eT1oJ.DiOXab.qiN4Vb.GA2I6e.VfPpkd-ksKsZd-mWPk3d.VfPpkd-ksKsZd-mWPk3d-OWXEXe-ZNMTqd > div.VfPpkd-Bz112c-RLmnJb</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ow71']/div/span/button/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2da03232-276a-418d-905d-ecdb6563a5ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>VfPpkd-Bz112c-RLmnJb</value>
+      <webElementGuid>5a14bf77-f0ac-4212-b060-92a95c5ecaf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ow71&quot;)/div[1]/span[1]/button[@class=&quot;VfPpkd-Bz112c-LgbsSe VfPpkd-Bz112c-LgbsSe-OWXEXe-e5LLRc-SxQuSe yHy1rc eT1oJ DiOXab qiN4Vb GA2I6e VfPpkd-ksKsZd-mWPk3d VfPpkd-ksKsZd-mWPk3d-OWXEXe-ZNMTqd&quot;]/div[@class=&quot;VfPpkd-Bz112c-RLmnJb&quot;]</value>
+      <webElementGuid>cfa109a1-0e05-47a2-a2d5-41f1b161c730</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ow71']/div/span/button/div[3]</value>
+      <webElementGuid>94a7d2ce-d099-4045-a50e-9582fa534410</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//c-wiz/div/div/div/span/button/div[3]</value>
+      <webElementGuid>e734411d-8392-4633-bf9c-02d75875ebaf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Lanjutkan</name>
+   <tag></tag>
+   <elementGuidId>d0630ba7-c615-4e67-8e8a-53f30d8dad00</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.passport-btn.passport-btn-primary.hover30</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='login-sdk-container']/div/div/div[2]/div/div/div/div[3]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bf8afcf5-aedc-42b2-83d1-bfa7cd5b7854</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>passport-btn passport-btn-primary hover30</value>
+      <webElementGuid>5ea468c8-0bf0-4471-a941-128a46143321</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Lanjutkan </value>
+      <webElementGuid>9e39fa98-4cba-461b-8dfe-cff271bfee3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login-sdk-container&quot;)/div[@class=&quot;global-passport passport-login passport-long global-all-passport&quot;]/div[@class=&quot;passport-wrapper&quot;]/div[@class=&quot;passport-content&quot;]/div[@class=&quot;passport__inner&quot;]/div[1]/div[1]/div[@class=&quot;passport-input&quot;]/div[@class=&quot;passport-btn passport-btn-primary hover30&quot;]</value>
+      <webElementGuid>e3e9f29b-3a03-4c1e-9d5a-ee65baf99396</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='login-sdk-container']/div/div/div[2]/div/div/div/div[3]/div[2]</value>
+      <webElementGuid>77b23329-5bbd-46b5-ab39-87e81ec605de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nombor Telefon Bimbit'])[1]/following::div[1]</value>
+      <webElementGuid>11222a63-c3a4-41b9-8ae6-be32092af67f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kebijakan Privasi iQIYI'])[1]/following::div[82]</value>
+      <webElementGuid>96c3a1ba-f0c9-4952-a121-a6784a2cdd49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perjanjian Privasi'])[1]/preceding::div[1]</value>
+      <webElementGuid>d5724e3e-d16b-4bb4-9fc7-42ebb9678290</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ketentuan Layanan'])[1]/preceding::div[1]</value>
+      <webElementGuid>1cf17669-1d5f-4e84-b4b0-11405afebfa6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lanjutkan']/parent::*</value>
+      <webElementGuid>b54d7b54-9f4f-4f9a-a77e-ef9f8dd7f737</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[3]/div[2]</value>
+      <webElementGuid>c64a41f4-d9a6-4d6b-b8f8-dcc41c785437</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Lanjutkan ' or . = ' Lanjutkan ')]</value>
+      <webElementGuid>7a5648e8-b4a6-4533-833e-04c58ba521a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

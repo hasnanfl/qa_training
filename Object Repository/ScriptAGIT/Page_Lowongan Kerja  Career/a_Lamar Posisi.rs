@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Lamar Posisi</name>
+   <tag></tag>
+   <elementGuidId>baa5049a-ffcb-411b-bb38-65fe3729d532</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='paginate-job']/div[2]/div[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7f0b6e7b-dc51-41df-b3b9-e57fa91094ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://career.astragraphia.co.id/jobs/19</value>
+      <webElementGuid>10cf4e5f-8887-49d1-b0c8-9ce4b153c93e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>def_btn</value>
+      <webElementGuid>dda7a527-65d0-4dca-86de-130ee2ff2378</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lamar Posisi</value>
+      <webElementGuid>bd1a5d83-e95d-4fc8-bdd3-59b29e501fdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;paginate-job&quot;)/div[@class=&quot;fullBox cl_box&quot;]/div[@class=&quot;cl_btn&quot;]/a[@class=&quot;def_btn&quot;]</value>
+      <webElementGuid>9cca8044-8204-4421-9ec0-95e6cbce6952</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='paginate-job']/div[2]/div[3]/a</value>
+      <webElementGuid>5edba352-b661-4492-b1d1-c1563579873d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Lamar Posisi')])[2]</value>
+      <webElementGuid>7e761c5c-2a3c-419c-9291-7b091dc3f9e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seluruh Indonesia'])[2]/following::a[1]</value>
+      <webElementGuid>d637eaaf-e014-44a1-92a4-2f8c277e0ae4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Full Time'])[2]/following::a[1]</value>
+      <webElementGuid>0098d3e9-f38a-45ab-9003-fc19c2051c5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Full Time'])[3]/preceding::a[1]</value>
+      <webElementGuid>c6286aad-3738-433e-ae2a-0cec3fa4c7f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://career.astragraphia.co.id/jobs/19')]</value>
+      <webElementGuid>27f598dc-842d-4542-9b57-03a372ac17e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/a</value>
+      <webElementGuid>ea627346-34e1-4408-887c-4840dd5bf6b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://career.astragraphia.co.id/jobs/19' and (text() = 'Lamar Posisi' or . = 'Lamar Posisi')]</value>
+      <webElementGuid>220d177a-52ff-412a-8a7c-5d7f5d5868e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

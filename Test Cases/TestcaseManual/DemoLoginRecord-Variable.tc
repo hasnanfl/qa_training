@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DemoLoginRecord-Variable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7445e2c3-1a61-4fee-84e8-46096e5cc2be</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>349a2a7c-7c8b-4611-b9dd-96e23d69099a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Hongkong CURA Healthcare Center'</defaultValue>
+      <description></description>
+      <id>349a2a7c-7c8b-4611-b9dd-96e23d69099a</id>
+      <masked>false</masked>
+      <name>HONGKONG</name>
+   </variable>
+</TestCaseEntity>

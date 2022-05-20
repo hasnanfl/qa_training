@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pakai akun SMS daftar</name>
+   <tag></tag>
+   <elementGuidId>a511cc3b-e0e8-4779-be45-738185bad717</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='login-sdk-container']/div/div/div[2]/div/div/div[3]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6f059a79-4e53-4295-9218-4ef9cc0633c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>passport-btn passport-btn-login hover30 mb-16</value>
+      <webElementGuid>1f9869fe-6432-4253-82ab-ec730007f2b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pakai akun SMS daftar</value>
+      <webElementGuid>fff022d7-0e93-4285-9ed5-deb5f39ec931</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login-sdk-container&quot;)/div[@class=&quot;global-passport passport-login passport-long global-all-passport&quot;]/div[@class=&quot;passport-wrapper autoheight&quot;]/div[@class=&quot;passport-content&quot;]/div[@class=&quot;passport__inner&quot;]/div[@class=&quot;passport-first-wrapper&quot;]/div[@class=&quot;passport-entry-wrapper&quot;]/div[@class=&quot;passport-btn passport-btn-login hover30 mb-16&quot;]</value>
+      <webElementGuid>46fe0177-879f-4e64-ad25-0ebbee18f2be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='login-sdk-container']/div/div/div[2]/div/div/div[3]/div[2]</value>
+      <webElementGuid>1ea524f0-33a4-4f8e-9a7a-61d966a63911</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pakai akun Email daftar'])[1]/following::div[1]</value>
+      <webElementGuid>4ae9127b-9842-4f96-9f94-c7e4ded9275e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Membuat akun anda. Anda bisa menyimpan Histori Tontonan dan Kesukaan Saya di banyak perangkat.'])[1]/following::div[3]</value>
+      <webElementGuid>16d27309-e37b-4cec-93b9-ff03f4946fd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pakai akun Facebook daftar'])[1]/preceding::div[1]</value>
+      <webElementGuid>4b96fbed-8e34-4946-9ad0-6a8f5298f1f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[3]/div[2]</value>
+      <webElementGuid>0cc53055-c77a-4e00-ad30-faec9dc7642c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pakai akun SMS daftar' or . = 'Pakai akun SMS daftar')]</value>
+      <webElementGuid>ae4dac67-9b08-4a11-ba65-f32a1f99e44b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

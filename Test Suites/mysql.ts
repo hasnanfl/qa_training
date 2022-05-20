@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>mysql</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>e1acb579-6ab2-4d70-a315-802e7da39b36</testSuiteGuid>
+   <testCaseLink>
+      <guid>2a6fbb23-84a9-41dd-9816-30b373ad7475</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/mysqlDataDriven/Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>97e6c49a-4342-40b4-b237-f35738a73351</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/SQL/user_login</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>97e6c49a-4342-40b4-b237-f35738a73351</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>5b5f8416-b1b1-410c-952a-6574560a05a3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>97e6c49a-4342-40b4-b237-f35738a73351</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>16f0917e-7070-4f2d-8686-ec0e6e861cbe</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
