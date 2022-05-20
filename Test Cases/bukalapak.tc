@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>bukalapak</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5fc0a270-a62f-40b5-90ed-724db4680597</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>46161276-2b86-490b-950b-870b5ad1db41</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>46161276-2b86-490b-950b-870b5ad1db41</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>
